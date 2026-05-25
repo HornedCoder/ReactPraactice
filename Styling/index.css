@@ -1,0 +1,28 @@
+img {
+  width: 55px;
+}
+
+body{
+  background-color: #181818;
+  color: aliceblue;
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+
+}
+
+ul>li{
+  margin-left: 20px;
+  font-size: 1.2rem;
+}
+
+
+header {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+
