@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    background-color: #2b2c34;
+    background-image: url("C:/Users/kayus/Downloads/react.svg");
+    background-repeat: no-repeat;
+    background-position: right 75%;
+    background-size: 30%;
+}
+
+header {
+    height: 90px;
+    background-color: #21222A;
+    padding: 30px 25px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+span {
+    color: #61DBFB;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+main{
+    margin: 10px 0 0 26px;
+    color: aliceblue;
+}
+
+li {
+    font-weight: 300;
+    font-size: small;
+    padding-top: 20px;
+}
+
+li::marker {
+    color:#61DBFB;
+    font-size: 1.2rem;
+}
