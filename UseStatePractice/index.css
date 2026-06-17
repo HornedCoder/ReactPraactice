@@ -1,0 +1,26 @@
+body{
+  background-color: #484848;
+}
+
+#Body{
+  display: flex;
+}
+
+#State{
+  background-color: aliceblue;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
+
+h2{
+  text-align: center;
+}
+
+button{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #686879;
+  font-size: xx-large;
+}
